@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'NNR';
+  src: url("../NNR.woff2") format("woff2"), 
+       url("../NNR.ttf") format("truetype"), 
+  unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF;
+}
